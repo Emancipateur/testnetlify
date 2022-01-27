@@ -1,0 +1,40 @@
+.galerie{
+
+    .choiceCategory{
+
+       ul{
+        
+        display: flex;
+        justify-content: space-around;
+        padding: 1rem;
+        width: 100%;
+        background-color: black;
+        border: 3px solid grey;
+        margin: 1rem 0rem;
+        
+
+        li{
+            display: flex;
+
+
+             label{
+                margin-left: 0.3rem;
+                color: white;
+             }
+        }
+       }
+    }
+
+.galerieContent{
+
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+
+
+.picGalerie{
+    border: 3px solid grey;
+    max-width: 95vw;
+}
+}
+}

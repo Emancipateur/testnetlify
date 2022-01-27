@@ -1,0 +1,26 @@
+.nav{
+
+
+    nav{
+        display : flex;
+        width: 100%;
+        align-items: center;
+        height:35px;
+        background : black;
+        color: white;
+        font-size: 1.3rem;
+
+
+
+
+        ul{
+            display : flex;
+            width: 100%;
+            justify-content: space-around;
+            align-items: center;
+  
+
+        }
+    }
+
+}
